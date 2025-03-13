@@ -12,7 +12,6 @@ Artificial intelligence models are increasingly common in many aspects of everyd
 > volume={6},
 > url={https://sistemas.uft.edu.br/periodicos/index.php/AJCEAM/article/view/20786},
 > DOI={10.20873/uft.2675-3588.2025.v6n1.p9-18},
-> abstractNote={&amp;lt;p&amp;gt;Modelos de inteligência artificial são cada vez mais comuns em vários aspectos do dia a dia. Não só nos casos mais emblemáticas, mas também para casos corriqueiros como em sistemas de recomendação em sites de compras. Nesse sentido, é muito importante o entendimento de como esses modelos funcionam por parte dos desenvolvedores. Contudo, o uso massivo de bibliotecas para utilização desses modelos pode desfavorecer esse entendimento. Assim, esse trabalho traz a definição e demonstração formal das funções de ativação em modelos de aprendizado de máquina. Esse é um ponto fundamental para a introdução do assunto à novos desenvolvedores e cientistas que trabalharão na área. A descrição formal se aplica às clássicas funções ReLU, Sigmóide, tangente hiperbólica, softmax e gradiente descendente. Além disso, também são discutidos o impacto dessas funções no modelo LeNet-5 aplicado à base de dados MNIST.&amp;lt;/p&amp;gt;},
 > number={1},
 > journal={Academic Journal on Computing, Engineering and Applied Mathematics},
 > author={Assunção Leal, Julia},

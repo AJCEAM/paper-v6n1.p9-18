@@ -7,7 +7,7 @@ Artificial intelligence models are increasingly common in many aspects of everyd
 ### BibTeX
 
 > ```bibtex
-> @article{Assunção Leal_2025,
+> @article{Assuncao_Leal_2025,
 > title={Descrição formal das funções de ativação de modelos de aprendizado de máquina},
 > volume={6},
 > url={https://sistemas.uft.edu.br/periodicos/index.php/AJCEAM/article/view/20786},
